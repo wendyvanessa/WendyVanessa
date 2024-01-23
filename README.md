@@ -4,23 +4,23 @@
 <img src="https://i.postimg.cc/8PrqJ8gT/Captura-de-pantalla-2024-01-23-a-la-s-9-06-35-a-m.png">
 
 
-## Sobre mi
-
-Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrollando apps para Android. Me destaco por ser una persona con aprendizaje rapido, colaborativa y siempre dispuesta a compartir mis conocimientos. Mi actitud proactiva y ganas de aprender constantemente me han permitido crecer profesionalmente y enfrentar nuevos desafíos con entusiasmo.
-<br>
-
 <a href="https://www.linkedin.com/in/wendymejiaagudelo/"><img src="https://img.shields.io/badge/Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 &emsp;
 <a target="_blank" href="mailto:wendyvanessa.ma@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 
 
-- Soy ingeniera de sistemas en formación.
-- Me apaciona el mundo del desarrollo movil.
-- Ahora estoy enfocada en Android, pero también me gustaria aprender Kotlin Multiplatform para desarrollar para varias plataformas e igualmente IOS ☺️ .
-- Actualmente estoy abierta a oportunidades laborales.
-- Me gusta leer.
-- Actualmente estoy aprendiendo ingles.
+## Sobre mi
+
+Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrollando apps para Android. Me destaco por ser una persona con aprendizaje rapido, colaborativa y siempre dispuesta a compartir mis conocimientos. Mi actitud proactiva y ganas de aprender constantemente me han permitido crecer profesionalmente y enfrentar nuevos desafíos con entusiasmo.
+<br>
+
+- 🔭 Soy ingeniera de sistemas en formación.
+- 📲 Me apaciona el mundo del desarrollo movil.
+- 🤖 Ahora estoy enfocada en Android, pero también me gustaria aprender Kotlin Multiplatform para desarrollar para varias plataformas e igualmente IOS ☺️ .
+- 👩🏽‍💻 Actualmente estoy abierta a oportunidades laborales.
+- 📖 Me gusta leer.
+- 🇺🇸 Actualmente estoy aprendiendo ingles.
 
 
 
