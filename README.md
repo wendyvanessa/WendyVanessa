@@ -12,12 +12,12 @@
 
 ## Sobre mi
 
-Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrollando apps para Android. Me destaco por ser una persona con aprendizaje rapido, colaborativa y siempre dispuesta a compartir mis conocimientos. Mi actitud proactiva y ganas de aprender constantemente me han permitido crecer profesionalmente y enfrentar nuevos desafíos con entusiasmo.
-<br>
+Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrollando apps para Android. Me destaco por ser una persona con aprendizaje rápido, colaborativa y siempre dispuesta a compartir mis conocimientos. Mi actitud proactiva y ganas de aprender constantemente me han permitido crecer profesionalmente y enfrentar nuevos desafíos con entusiasmo.
+
 
 - 🔭 Soy ingeniera de sistemas en formación.
-- 📲 Me apaciona el mundo del desarrollo movil.
-- 🤖 Ahora estoy enfocada en Android, pero también me gustaria aprender Kotlin Multiplatform para desarrollar para varias plataformas e igualmente IOS ☺️ .
+- 📲 Me apasiona el mundo del desarrollo momóvil
+- 🤖 Ahora estoy enfocada en Android, pero también me gusgustaría aprender Kotlin Multiplatform para desarrollar para varias plataformas e igualmente IOS ☺️ .
 - 👩🏽‍💻 Actualmente estoy abierta a oportunidades laborales.
 - 📖 Me gusta leer.
 - 🇺🇸 Actualmente estoy aprendiendo ingles.
