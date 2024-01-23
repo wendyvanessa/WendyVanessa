@@ -11,8 +11,7 @@ Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrol
 
 <a href="https://www.linkedin.com/in/wendymejiaagudelo/"><img src="https://img.shields.io/badge/Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a target="_blank" href="wendytech4@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="wendytech4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
 - Soy ingeniera de sistemas en formación.
