@@ -28,7 +28,7 @@ Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrol
 
 <p align="center">
 <a href="https://github.com/WendyVanessa">
-  <img height="150em" Width="300" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wendyvanessa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" Width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wendyvanessa&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wendyvanessa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wendyvanessa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
