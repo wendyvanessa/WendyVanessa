@@ -9,6 +9,8 @@
 Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrollando apps para Android. Me destaco por ser una persona con aprendizaje rapido, colaborativa y siempre dispuesta a compartir mis conocimientos. Mi actitud proactiva y ganas de aprender constantemente me han permitido crecer profesionalmente y enfrentar nuevos desafíos con entusiasmo.
 <br>
 
+![Linkedin ](www.linkedin.com/in/wendymejiaagudelo)
+
 
 - Soy ingeniera de sistemas en formación.
 - Me apaciona el mundo del desarrollo movil.
@@ -22,8 +24,8 @@ Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrol
 
 <p align="center">
 <a href="https://github.com/WendyVanessa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wendyvanessa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wendyvanessa&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wendyvanessa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wendyvanessa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
