@@ -3,6 +3,11 @@
 </div>
 <img src="https://i.postimg.cc/8PrqJ8gT/Captura-de-pantalla-2024-01-23-a-la-s-9-06-35-a-m.png">
 
+## Sobre mi
+
+Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrollando apps para Android. Me destaco por ser una persona con aprendizaje rapido, colaborativa y siempre dispuesta a compartir mis conocimientos. Mi actitud proactiva y ganas de aprender constantemente me han permitido crecer profesionalmente y enfrentar nuevos desafíos con entusiasmo.
+<br>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
