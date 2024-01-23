@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola soy Wendy Vanessa Mejia Agudelo 👋</h1>
 </div>
-<img src="https://www.canva.com/design/DAF6toISCvE/_xVvDaURSHZ9TAcbJ6laUA/view?utm_content=DAF6toISCvE&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<img src="https://i.postimg.cc/8PrqJ8gT/Captura-de-pantalla-2024-01-23-a-la-s-9-06-35-a-m.png">
 
 
 
