@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola soy Wendy Vanessa Mejia Agudelo 👋</h1>
 </div>
-<img src="">
+<img src="https://imgur.com/a/aHmyw78">
 
 
 <!--
