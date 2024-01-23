@@ -11,11 +11,13 @@ Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrol
 
 <a href="https://www.linkedin.com/in/wendymejiaagudelo/"><img src="https://img.shields.io/badge/Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 &emsp;
-<a target="_blank" href="wendyvanessa.ma@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:wendyvanessa.ma@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
+
 
 - Soy ingeniera de sistemas en formación.
 - Me apaciona el mundo del desarrollo movil.
+- Ahora estoy enfocada en Android, pero también me gustaria aprender Kotlin Multiplatform para desarrollar para varias plataformas e igualmente IOS ☺️ .
 - Actualmente estoy abierta a oportunidades laborales.
 - Me gusta leer.
 - Actualmente estoy aprendiendo ingles.
