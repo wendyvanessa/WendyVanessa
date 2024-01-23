@@ -10,9 +10,9 @@ Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrol
 <br>
 
 <a href="https://www.linkedin.com/in/wendymejiaagudelo/"><img src="https://img.shields.io/badge/Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
+&emsp;
 <a target="_blank" href="wendytech4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
+&emsp;
 
 - Soy ingeniera de sistemas en formación.
 - Me apaciona el mundo del desarrollo movil.
@@ -26,7 +26,7 @@ Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrol
 
 <p align="center">
 <a href="https://github.com/WendyVanessa">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wendyvanessa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wendyvanessa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&emsp;
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wendyvanessa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
