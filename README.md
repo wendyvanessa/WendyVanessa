@@ -16,7 +16,7 @@ Soy disciplinada y altamente comprometida, tengo 2 años de experiencia desarrol
 
 
 - 🔭 Soy tecnóloga en desarrollo de software e ingeniera de sistemas en formación.
-- 📲 Me apasiona el mundo del desarrollo momóvil
+- 📲 Me apasiona el mundo del desarrollo móvil.
 - 🤖 Ahora estoy enfocada en Android, pero también me gusgustaría aprender Kotlin Multiplatform para desarrollar para varias plataformas e igualmente IOS ☺️ .
 - 👩🏽‍💻 Actualmente estoy abierta a oportunidades laborales.
 - 📖 Me gusta leer.
